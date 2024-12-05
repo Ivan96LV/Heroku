@@ -1,0 +1,1 @@
+web: gunicorn Cosecha_legal:app
